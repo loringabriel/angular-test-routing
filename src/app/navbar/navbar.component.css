@@ -1,0 +1,9 @@
+div {
+  display: flex;
+  align-items: center;
+}
+
+button {
+  margin-left: 16px;
+  height: 24px;
+}
